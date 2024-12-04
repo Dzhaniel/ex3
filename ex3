@@ -1,0 +1,7 @@
+jas=int(input("Жасыңыз:"))
+if jas<18:
+    print("Кәмелет жасқа толмаған ")
+elif jas<= 65:
+    print("Ересек")
+else:
+    print("Зейнеткер")
